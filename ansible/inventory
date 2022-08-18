@@ -1,0 +1,2 @@
+DB_worshop-1 ansible_host=18.197.54.23 private_ip=172.31.45.34 server_id=101
+DB_worshop-2 ansible_host=3.125.37.65 private_ip=172.31.41.83 server_id=102
